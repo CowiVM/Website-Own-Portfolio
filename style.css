@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+	background-color: linear-gradient(#ff5e00 0%, #1100ff 100%);
+}
+h1 {
+	font-family: 'Great Vibes', cursive;
+}
+h2 {
+	font-family: 'Parisienne', cursive;
+}
+h3 {
+	font-family: 'Ewert', cursive;
+}
+h5 {
+	font-family: 'Pacifico', cursive;
+}
+h1 #apps{
+	text-decoration: none;
+}
+#myCarousel {
+	background-color: crimson;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+menu { 
+list-style: none;
+}
